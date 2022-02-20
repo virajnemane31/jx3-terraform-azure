@@ -80,6 +80,7 @@ git push
 
 ```sh
 export TF_VAR_jx_bot_token=my-bot-token
+export TF_VAR_jx_bot_username=virajnemane
 ```
 
 6. Now, initialise, plan and apply Terraform:
